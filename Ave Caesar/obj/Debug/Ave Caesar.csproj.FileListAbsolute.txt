@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\bin\Debug\Ave Caesar.exe.config
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\bin\Debug\Ave Caesar.exe
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\bin\Debug\Ave Caesar.pdb
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave Caesar.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave_Caesar.Form1.resources
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave_Caesar.Properties.Resources.resources
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave Caesar.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave Caesar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave Caesar.exe
+C:\Users\Admin\Desktop\Важное\Боль\2 курс\4 семестр\ОперСист\Ave Caesar\obj\Debug\Ave Caesar.pdb
